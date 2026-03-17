@@ -1,0 +1,452 @@
+{
+  "hardwareItems": [
+    {
+      "key": "hw_szamitogep",
+      "row": 3,
+      "name": "Számítógép",
+      "unit": "db",
+      "unitCostNet": 388600,
+      "unitCostGross": 493522
+    },
+    {
+      "key": "hw_monitor",
+      "row": 4,
+      "name": "Monitor",
+      "unit": "db",
+      "unitCostNet": 62300,
+      "unitCostGross": 79121
+    },
+    {
+      "key": "hw_laptop",
+      "row": 5,
+      "name": "Laptop ",
+      "unit": "db",
+      "unitCostNet": 338300,
+      "unitCostGross": 429641
+    },
+    {
+      "key": "hw_nas",
+      "row": 6,
+      "name": "Hálózati adattároló - NAS",
+      "unit": "db",
+      "unitCostNet": 251400,
+      "unitCostGross": 319278
+    },
+    {
+      "key": "hw_router",
+      "row": 7,
+      "name": "Router",
+      "unit": "db",
+      "unitCostNet": 68200,
+      "unitCostGross": 86614
+    },
+    {
+      "key": "hw_mobil",
+      "row": 8,
+      "name": "Mobiltelefon",
+      "unit": "db",
+      "unitCostNet": 212200,
+      "unitCostGross": 269494
+    },
+    {
+      "key": "hw_tablet",
+      "row": 9,
+      "name": "Tablet",
+      "unit": "db",
+      "unitCostNet": 256500,
+      "unitCostGross": 325755
+    },
+    {
+      "key": "hw_nyomtato",
+      "row": 10,
+      "name": "Multifunkciós nyomtató",
+      "unit": "db",
+      "unitCostNet": 152300,
+      "unitCostGross": 193421
+    }
+  ],
+  "softwareGoalGroups": [
+    {
+      "goal": "Internet",
+      "goalRow": 5,
+      "items": [
+        {
+          "row": 5,
+          "label": "Internet",
+          "unit": "",
+          "unitCostNet": 0,
+          "unitCostGross": 0
+        }
+      ]
+    },
+    {
+      "goal": "Internet hozzáférés",
+      "goalRow": 6,
+      "items": [
+        {
+          "row": 6,
+          "label": "Internet hozzáférés",
+          "unit": "",
+          "unitCostNet": 0,
+          "unitCostGross": 0
+        }
+      ]
+    },
+    {
+      "goal": "Távoli hozzáférés a következők valamelyikéhez: e-mail, dokumentumok, ü",
+      "goalRow": 7,
+      "items": [
+        {
+          "row": 7,
+          "label": "Távoli hozzáférés a következők valamelyikéhez: e-mail, dokumentumok, üzleti alka",
+          "unit": "felhasználó/hó",
+          "unitCostNet": 5900,
+          "unitCostGross": 7493
+        },
+        {
+          "row": 8,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 200,
+          "unitCostGross": 254
+        },
+        {
+          "row": 9,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 127300,
+          "unitCostGross": 161671
+        }
+      ]
+    },
+    {
+      "goal": "Online (távoli) megbeszélések tartása",
+      "goalRow": 10,
+      "items": [
+        {
+          "row": 10,
+          "label": "Online (távoli) megbeszélések tartása",
+          "unit": "felhasználó/hó",
+          "unitCostNet": 5300,
+          "unitCostGross": 6731
+        },
+        {
+          "row": 11,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 53000,
+          "unitCostGross": 67310
+        }
+      ]
+    },
+    {
+      "goal": "IKT-képzés biztosítása az alkalmazottaknak",
+      "goalRow": 12,
+      "items": [
+        {
+          "row": 12,
+          "label": "IKT-képzés biztosítása az alkalmazottaknak",
+          "unit": "fő",
+          "unitCostNet": 76300,
+          "unitCostGross": 96901
+        },
+        {
+          "row": 13,
+          "label": "",
+          "unit": "fő",
+          "unitCostNet": 191100,
+          "unitCostGross": 242697
+        }
+      ]
+    },
+    {
+      "goal": "IKT-szakember igénybevétele",
+      "goalRow": 14,
+      "items": [
+        {
+          "row": 14,
+          "label": "IKT-szakember igénybevétele",
+          "unit": "óra",
+          "unitCostNet": 9200,
+          "unitCostGross": 11684
+        }
+      ]
+    },
+    {
+      "goal": "Alkalmazottak tájékoztatása az IKT-biztonsággal kapcsolatos kötelezett",
+      "goalRow": 15,
+      "items": [
+        {
+          "row": 15,
+          "label": "Alkalmazottak tájékoztatása az IKT-biztonsággal kapcsolatos kötelezettségeikről",
+          "unit": "fő",
+          "unitCostNet": 207100,
+          "unitCostGross": 263017
+        }
+      ]
+    },
+    {
+      "goal": "Legalább 3 IKT-biztonsági intézkedés alkalmazása",
+      "goalRow": 16,
+      "items": [
+        {
+          "row": 16,
+          "label": "Legalább 3 IKT-biztonsági intézkedés alkalmazása",
+          "unit": "db/hó",
+          "unitCostNet": 1400,
+          "unitCostGross": 1778
+        },
+        {
+          "row": 17,
+          "label": "",
+          "unit": "db/hó",
+          "unitCostNet": 3000,
+          "unitCostGross": 3810
+        }
+      ]
+    },
+    {
+      "goal": "IKT-biztonsági gyakorlatokat, eljárásokat rögzítő dokumentumok megléte",
+      "goalRow": 18,
+      "items": [
+        {
+          "row": 18,
+          "label": "IKT-biztonsági gyakorlatokat, eljárásokat rögzítő dokumentumok megléte",
+          "unit": "egyszeri költség",
+          "unitCostNet": 524300,
+          "unitCostGross": 665861
+        },
+        {
+          "row": 19,
+          "label": "A fejlesztési célon belül \nBÁRMELYIK és BÁRMENNYI \nösszetevő teljesítése \nVÁLASZ",
+          "unit": "egyszeri költség",
+          "unitCostNet": 257900,
+          "unitCostGross": 327533
+        },
+        {
+          "row": 20,
+          "label": "",
+          "unit": "fő",
+          "unitCostNet": 294300,
+          "unitCostGross": 373761
+        },
+        {
+          "row": 21,
+          "label": "",
+          "unit": "felhasználó/hó",
+          "unitCostNet": 5200,
+          "unitCostGross": 6604
+        }
+      ]
+    },
+    {
+      "goal": "Saját weboldallal/honlappal való rendelkezés",
+      "goalRow": 22,
+      "items": [
+        {
+          "row": 22,
+          "label": "Saját weboldallal/honlappal való rendelkezés",
+          "unit": "egyszeri költség",
+          "unitCostNet": 345100,
+          "unitCostGross": 438277
+        },
+        {
+          "row": 23,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 10100,
+          "unitCostGross": 12827
+        },
+        {
+          "row": 24,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 1900,
+          "unitCostGross": 2413
+        },
+        {
+          "row": 25,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 600,
+          "unitCostGross": 762
+        }
+      ]
+    },
+    {
+      "goal": "Bármilyen közösségi média használata",
+      "goalRow": 26,
+      "items": [
+        {
+          "row": 26,
+          "label": "Bármilyen közösségi média használata",
+          "unit": "hó",
+          "unitCostNet": 74900,
+          "unitCostGross": 95123
+        }
+      ]
+    },
+    {
+      "goal": "Kettő vagy több típusú közösségi média használata",
+      "goalRow": 27,
+      "items": [
+        {
+          "row": 27,
+          "label": "Kettő vagy több típusú közösségi média használata",
+          "unit": "hó",
+          "unitCostNet": 96300,
+          "unitCostGross": 122301
+        },
+        {
+          "row": 28,
+          "label": "Az összetevő teljesítése \nVÁLASZTHATÓ.",
+          "unit": "fő",
+          "unitCostNet": 374500,
+          "unitCostGross": 475615
+        }
+      ]
+    },
+    {
+      "goal": "Bármilyen fizetős felhőszolgáltatás használata",
+      "goalRow": 29,
+      "items": [
+        {
+          "row": 29,
+          "label": "Bármilyen fizetős felhőszolgáltatás használata",
+          "unit": "hó",
+          "unitCostNet": 21800,
+          "unitCostGross": 27686
+        },
+        {
+          "row": 30,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 109100,
+          "unitCostGross": 138557
+        },
+        {
+          "row": 31,
+          "label": "",
+          "unit": "egyszeri költség",
+          "unitCostNet": 1379800,
+          "unitCostGross": 1752346
+        },
+        {
+          "row": 32,
+          "label": "Az összetevő teljesítése \nVÁLASZTHATÓ.",
+          "unit": "felhasználó/hó",
+          "unitCostNet": 14400,
+          "unitCostGross": 18288
+        }
+      ]
+    },
+    {
+      "goal": "Vállalati erőforrás-tervezési (ERP) megoldás használata",
+      "goalRow": 33,
+      "items": [
+        {
+          "row": 33,
+          "label": "Vállalati erőforrás-tervezési (ERP) megoldás használata",
+          "unit": "felhasználó/hó",
+          "unitCostNet": 24800,
+          "unitCostGross": 31496
+        },
+        {
+          "row": 34,
+          "label": "",
+          "unit": "egyszeri költség",
+          "unitCostNet": 1994300,
+          "unitCostGross": 2532761
+        }
+      ]
+    },
+    {
+      "goal": "Ügyfélkapcsolat-kezelési (CRM) megoldás használata",
+      "goalRow": 35,
+      "items": [
+        {
+          "row": 35,
+          "label": "Ügyfélkapcsolat-kezelési (CRM) megoldás használata",
+          "unit": "felhasználó/hó",
+          "unitCostNet": 20700,
+          "unitCostGross": 26289
+        },
+        {
+          "row": 36,
+          "label": "",
+          "unit": "egyszeri költség",
+          "unitCostNet": 1329500,
+          "unitCostGross": 1688465
+        }
+      ]
+    },
+    {
+      "goal": "Automatizált feldolgozásra alkalmas e-számlák küldése",
+      "goalRow": 37,
+      "items": [
+        {
+          "row": 37,
+          "label": "Automatizált feldolgozásra alkalmas e-számlák küldése",
+          "unit": "hó",
+          "unitCostNet": 3200,
+          "unitCostGross": 4064
+        }
+      ]
+    },
+    {
+      "goal": "Webes értékesítés (forgalom több mint 1%-a; webes értékesítés több min",
+      "goalRow": 38,
+      "items": [
+        {
+          "row": 38,
+          "label": "Webes értékesítés (forgalom több mint 1%-a; webes értékesítés több mint 10%-a eg",
+          "unit": "hó",
+          "unitCostNet": 19200,
+          "unitCostGross": 24384
+        },
+        {
+          "row": 39,
+          "label": "",
+          "unit": "hó",
+          "unitCostNet": 3000,
+          "unitCostGross": 3810
+        },
+        {
+          "row": 40,
+          "label": "",
+          "unit": "",
+          "unitCostNet": 0,
+          "unitCostGross": 0
+        },
+        {
+          "row": 41,
+          "label": "* A „3. Távoli hozzáférés a következők valamelyikéhez: e-mail, dokumentumok, üzl",
+          "unit": "",
+          "unitCostNet": 0,
+          "unitCostGross": 0
+        },
+        {
+          "row": 42,
+          "label": "** Az „5. IKT-képzés biztosítása az alkalmazottaknak” fejlesztési célra tervezhe",
+          "unit": "",
+          "unitCostNet": 0,
+          "unitCostGross": 0
+        },
+        {
+          "row": 43,
+          "label": "*** A „7. Alkalmazottak tájékoztatása az IKT-biztonsággal kapcsolatos kötelezett",
+          "unit": "",
+          "unitCostNet": 0,
+          "unitCostGross": 0
+        },
+        {
+          "row": 44,
+          "label": "**** A „11. Bármilyen közösségi média használata” és a „12. Kettő vagy több típu",
+          "unit": "",
+          "unitCostNet": 0,
+          "unitCostGross": 0
+        }
+      ]
+    }
+  ]
+}
